@@ -419,7 +419,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   height: 100vh;
   position: relative;
-  background: rgb(216, 236, 240) url("#") center top no-repeat;
+  background:#e0f2fc url("#") center top no-repeat;
   background-size: cover;
 }
 
@@ -522,7 +522,7 @@ section {
 /* Section with background
 --------------------------------*/
 .section-bg {
-  background: rgb(216, 236, 240); /* ops */
+  background: #e0f2fc; /* ops */
 }
 
 /* About Us Section
@@ -587,7 +587,7 @@ section {
   height: 92%;
   z-index: -1;
   content: '';
-  background-color: #ebf1fa;
+  background-color: #e0f2fc;
   transition: .5s;
 }
 
@@ -599,7 +599,7 @@ section {
   height: 92%;
   z-index: -1;
   content: '';
-  background-color: #ebf1fa;
+  background-color: #e0f2fc;
   transition: .5s;
 }
 
@@ -664,7 +664,7 @@ section {
   height: 92%;
   z-index: -1;
   content: '';
-  background-color: #ebf1fa;
+  background-color: #e0f2fc;
   transition: .5s;
 }
 
