@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
     background: #fff; /* change this to color i want */
-    color: #444;
+    color: #2B257E;
     font-family: 'Krub', sans-serif;
     background-image: url("intro-bg");
     background-repeat: no-repeat;
@@ -18,12 +18,12 @@ body {
   }
   
   a {
-    color: pink;
+    color: #2B257E;
     transition: 0.5s;
   }
   
   a:hover, a:active, a:focus {
-    color: pink;
+    color: #2B257E;
     outline: none;
     text-decoration: none;
   }
@@ -44,7 +44,7 @@ body {
   .back-to-top {
     position: fixed;
     display: none;
-    background: pink;
+    background: #2B257E;
     color: #fff;
     width: 44px;
     height: 44px;
@@ -87,7 +87,7 @@ body {
     top: calc(50% - 30px);
     left: calc(50% - 30px);
     border: 6px solid #f2f2f2;
-    border-top: 6px solid pink;
+    border-top: 6px solid #2B257E;
     border-radius: 50%;
     width: 60px;
     height: 60px;
@@ -150,7 +150,7 @@ body {
   }
   
   #topbar .social-links a:hover {
-    color: pink;
+    color: #2B257E;
   }
   
   #topbar .social-links a:first-child {
@@ -240,7 +240,7 @@ body {
   }
   
   .main-nav a:hover, .main-nav .active > a, .main-nav li:hover > a {
-    color: pink;
+    color: #2B257E;
     text-decoration: none;
   }
   
@@ -278,7 +278,7 @@ body {
   }
   
   .main-nav .drop-down ul a:hover, .main-nav .drop-down ul .active > a, .main-nav .drop-down ul li:hover > a {
-    color: pink;
+    color: #2B257E;
   }
   
   .main-nav .drop-down > a:after {
@@ -337,7 +337,7 @@ body {
   }
   
   .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-    color: pink;
+    color: #2B257E;
     text-decoration: none;
   }
   
@@ -455,7 +455,7 @@ body {
   }
   
   #hero .intro-info h2 span {
-    color: pink;
+    color: #2B257E;
   }
   
   @media (max-width: 767px) {
@@ -481,7 +481,7 @@ body {
   }
   
   #hero .intro-info .btn-get-started:hover, #hero .intro-info .btn-services:hover {
-    background: pink;
+    background: #2B257E;
   }
   
   /*--------------------------------------------------------------
@@ -520,7 +520,7 @@ body {
   /* Section with background
   --------------------------------*/
   .section-bg {
-    background: rgb(216, 236, 240); /* ops */
+    background: #fff; /* ops */
   }
   
   
@@ -573,7 +573,7 @@ body {
   }
   
   #services .box:hover .title a {
-    color: pink
+    color: #2B257E
     ;
   }
   
@@ -637,7 +637,7 @@ body {
     margin: 0 0 20px 0;
     font-family: "Montserrat", sans-serif;
     font-size: 14px;
-    color:pink;
+    color:#2B257E;
   }
   
   /* Call To Action Section
@@ -681,8 +681,8 @@ body {
   }
   
   #call-to-action .cta-btn:hover {
-    background: pink;
-    border: 3px solid pink;
+    background: #2B257E;
+    border: 3px solid #2B257E;
   }
   
   /* Portfolio Section
@@ -713,7 +713,7 @@ body {
   }
   
   #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-    color: pink;
+    color: #2B257E;
   }
   
   #portfolio #portfolio-flters li:last-child {
@@ -787,7 +787,7 @@ body {
     text-align: center;
     width: 36px;
     height: 36px;
-    background: pink;
+    background: #2B257E;
     border-radius: 50%;
     margin: 10px 4px 0 4px;
   }
@@ -799,7 +799,7 @@ body {
   }
   
   #portfolio .portfolio-item .portfolio-wrap .portfolio-info .link-preview:hover, #portfolio .portfolio-item .portfolio-wrap .portfolio-info .link-details:hover {
-    background: pink;
+    background: #2B257E;
   }
   
   #portfolio .portfolio-item .portfolio-wrap .portfolio-info .link-preview:hover i, #portfolio .portfolio-item .portfolio-wrap .portfolio-info .link-details:hover i {
@@ -848,7 +848,7 @@ body {
   }
   
   #clients .owl-dot.active {
-    background-color: pink;
+    background-color: #2B257E;
   }
   
 
@@ -901,7 +901,7 @@ body {
   }
   
   #faq #faq-list a.collapse {
-    color: pink;
+    color: #2B257E;
   }
   
   #faq #faq-list a.collapsed {
@@ -985,7 +985,7 @@ body {
   }
   
   .portfolio-details .portfolio-details-carousel .owl-dot.active {
-    background-color: pink !important;
+    background-color: #2B257E !important;
   }
   
   .portfolio-details .portfolio-info {
@@ -1083,7 +1083,7 @@ body {
   #footer .footer-top .social-links a {
     font-size: 18px;
     display: inline-block;
-    background: pink;
+    background: #2B257E;
     color: #fff;
     line-height: 1;
     padding: 8px 0;
@@ -1096,7 +1096,7 @@ body {
   }
   
   #footer .footer-top .social-links a:hover {
-    background: pink;
+    background: #2B257E;
     color: #fff;
   }
   
@@ -1138,7 +1138,7 @@ body {
   }
   
   #footer .footer-top .footer-links ul a:hover {
-    color: pink;
+    color: #2B257E;
   }
   
   #footer .footer-top .footer-contact {
@@ -1161,8 +1161,8 @@ body {
   }
   
   #footer .footer-top .footer-newsletter input[type="submit"] {
-    background: pink;
-    border: 1px solid pink;
+    background: #2B257E;
+    border: 1px solid #2B257E;
     width: 35%;
     padding: 6px 0;
     text-align: center;
@@ -1172,7 +1172,7 @@ body {
   }
   
   #footer .footer-top .footer-newsletter input[type="submit"]:hover {
-    background:pink;
+    background:#2B257E;
   }
   
   #footer .php-email-form .validate {
@@ -1233,7 +1233,7 @@ body {
   }
   
   #footer .php-email-form input::focus, #footer .php-email-form textarea::focus {
-    background-color: pink;
+    background-color: #2B257E;
   }
   
   #footer .php-email-form input {
@@ -1254,7 +1254,7 @@ body {
   }
   
   #footer .php-email-form button[type="submit"]:hover {
-    background: pink;
+    background: #2B257E;
     cursor: pointer;
   }
   
@@ -1291,9 +1291,9 @@ body {
   }
   
   #footer .credits a {
-    color: pink;
+    color: #2B257E;
   }
   
   #footer .credits a:hover {
-    color: pink;
+    color: #2B257E;
   }

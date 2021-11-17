@@ -520,7 +520,7 @@ body {
   /* Section with background
 --------------------------------*/
     .section-bg {
-    background: rgb(216, 236, 240); /* ops */
+    background: #fff; /* ops */
     }
 
   /* Portfolio Section
@@ -551,7 +551,7 @@ body {
   }
   
   #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-    color: pink;
+    color: #2B257E;
   }
   
   #portfolio #portfolio-flters li:last-child {
@@ -625,7 +625,7 @@ body {
     text-align: center;
     width: 36px;
     height: 36px;
-    background: pink;
+    background: #2B257E;
     border-radius: 50%;
     margin: 10px 4px 0 4px;
   }
@@ -637,7 +637,7 @@ body {
   }
   
   #portfolio .portfolio-item .portfolio-wrap .portfolio-info .link-preview:hover, #portfolio .portfolio-item .portfolio-wrap .portfolio-info .link-details:hover {
-    background: pink;
+    background: #2B257E;
   }
   
   #portfolio .portfolio-item .portfolio-wrap .portfolio-info .link-preview:hover i, #portfolio .portfolio-item .portfolio-wrap .portfolio-info .link-details:hover i {
@@ -695,7 +695,7 @@ body {
   #footer .footer-top .social-links a {
     font-size: 18px;
     display: inline-block;
-    background: pink;
+    background: #2B257E;
     color: #fff;
     line-height: 1;
     padding: 8px 0;
@@ -708,7 +708,7 @@ body {
   }
   
   #footer .footer-top .social-links a:hover {
-    background: pink;
+    background: #2B257E;
     color: #fff;
   }
   
@@ -750,7 +750,7 @@ body {
   }
   
   #footer .footer-top .footer-links ul a:hover {
-    color: pink;
+    color: #2B257E;
   }
   
   #footer .footer-top .footer-contact {
@@ -773,8 +773,8 @@ body {
   }
   
   #footer .footer-top .footer-newsletter input[type="submit"] {
-    background: pink;
-    border: 1px solid pink;
+    background: #2B257E;
+    border: 1px solid #2B257E;
     width: 35%;
     padding: 6px 0;
     text-align: center;
@@ -784,7 +784,7 @@ body {
   }
   
   #footer .footer-top .footer-newsletter input[type="submit"]:hover {
-    background:pink;
+    background:#2B257E;
   }
   
   #footer .php-email-form .validate {
@@ -845,7 +845,7 @@ body {
   }
   
   #footer .php-email-form input::focus, #footer .php-email-form textarea::focus {
-    background-color: pink;
+    background-color: #2B257E;
   }
   
   #footer .php-email-form input {
@@ -866,7 +866,7 @@ body {
   }
   
   #footer .php-email-form button[type="submit"]:hover {
-    background: pink;
+    background: #2B257E;
     cursor: pointer;
   }
   
@@ -903,10 +903,10 @@ body {
   }
   
   #footer .credits a {
-    color: pink;
+    color: #2B257E;
   }
   
   #footer .credits a:hover {
-    color: pink;
+    color: #2B257E;
   }
   

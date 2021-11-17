@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
     background: #fff; /* change this to color i want */
-    color: #444;
+    color: #2B257E !important;
     font-family: 'Krub', sans-serif;
     background-image: url("intro-bg");
     background-repeat: no-repeat;
@@ -18,12 +18,12 @@ body {
   }
   
   a {
-    color: pink;
+    color: #2B257E;
     transition: 0.5s;
   }
   
   a:hover, a:active, a:focus {
-    color: pink;
+    color: #2B257E;
     outline: none;
     text-decoration: none;
   }
@@ -44,7 +44,7 @@ body {
   .back-to-top {
     position: fixed;
     display: none;
-    background: pink;
+    background: #2B257E;
     color: #fff;
     width: 44px;
     height: 44px;
@@ -87,7 +87,7 @@ body {
     top: calc(50% - 30px);
     left: calc(50% - 30px);
     border: 6px solid #f2f2f2;
-    border-top: 6px solid pink;
+    border-top: 6px solid #2B257E;
     border-radius: 50%;
     width: 60px;
     height: 60px;
@@ -127,7 +127,7 @@ body {
   --------------------------------------------------------------*/
   
   #topbar {
-    background: #fff;
+    background: rgb(139, 139, 139);
     height: 40px;
     font-size: 20px;
     transition: all 0.5s;
@@ -142,7 +142,7 @@ body {
   }
   
   #topbar .social-links a {
-    color: #413e66;
+    color: #2B257E;
     padding-left: 20px;
     display: inline-block;
     line-height: 1px;
@@ -150,7 +150,7 @@ body {
   }
   
   #topbar .social-links a:hover {
-    color: pink;
+    color: #2B257E;
   }
   
   #topbar .social-links a:first-child {
@@ -189,7 +189,7 @@ body {
   }
   
   #header .logo a {
-    color: #413e66;
+    color: #2B257E;
   }
   
   #header .logo img {
@@ -230,7 +230,7 @@ body {
   .main-nav a {
     display: block;
     position: relative;
-    color: #413e66;
+    color: #2B257E;
     padding: 10px 0;
     transition: 0.3s;
     font-size: 14px;
@@ -240,7 +240,7 @@ body {
   }
   
   .main-nav a:hover, .main-nav .active > a, .main-nav li:hover > a {
-    color: pink;
+    color: #2B257E;
     text-decoration: none;
   }
   
@@ -278,7 +278,7 @@ body {
   }
   
   .main-nav .drop-down ul a:hover, .main-nav .drop-down ul .active > a, .main-nav .drop-down ul li:hover > a {
-    color: pink;
+    color: #2B257E;
   }
   
   .main-nav .drop-down > a:after {
@@ -337,7 +337,7 @@ body {
   }
   
   .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-    color: pink;
+    color: #2B257E;
     text-decoration: none;
   }
   
@@ -383,7 +383,7 @@ body {
   
   .mobile-nav-toggle i {
     margin: 18px 18px 0 0;
-    color: #065e77;
+    color: #2B257E;
   }
   
   .mobile-nav-overly {
@@ -422,7 +422,7 @@ body {
   --------------------------------*/
   .section-header h3 {
     font-size: 36px;
-    color: #413e66;
+    color: #2B257E;
     text-align: center;
     font-weight: 700;
     position: relative;
@@ -447,7 +447,7 @@ body {
   /* Section with background
   --------------------------------*/
   .section-bg {
-    background: rgb(216, 236, 240); /* ops */
+    background: #fff; /* ops */
   } 
  
   
@@ -549,7 +549,7 @@ body {
     padding: 2px 0 2px 0;
     line-height: 1;
     font-family: "Montserrat", sans-serif;
-    color: #413e66;
+    color: #2B257E;
     font-weight: 400;
     letter-spacing: 3px;
     text-transform: uppercase;
@@ -560,13 +560,13 @@ body {
     line-height: 24px;
     margin-bottom: 0;
     font-family: "Montserrat", sans-serif;
-    color: #535074;
+    color: #2B257E;
   }
   
   #footer .footer-top .social-links a {
     font-size: 18px;
     display: inline-block;
-    background: pink;
+    background: #2B257E;
     color: #fff;
     line-height: 1;
     padding: 8px 0;
@@ -579,7 +579,7 @@ body {
   }
   
   #footer .footer-top .social-links a:hover {
-    background: pink;
+    background: #2B257E;
     color: #fff;
   }
   
@@ -592,7 +592,7 @@ body {
   #footer .footer-top h4 {
     font-size: 14px;
     font-weight: bold;
-    color: #413e66;
+    color: #2B257E;
     text-transform: uppercase;
     position: relative;
     padding-bottom: 10px;
@@ -621,7 +621,7 @@ body {
   }
   
   #footer .footer-top .footer-links ul a:hover {
-    color: pink;
+    color: #2B257E;
   }
   
   #footer .footer-top .footer-contact {
@@ -640,12 +640,12 @@ body {
     border: 0;
     padding: 6px 8px;
     width: 65%;
-    border: 1px solid #d9dde6;
+    border: 1px solid #2B257E;
   }
   
   #footer .footer-top .footer-newsletter input[type="submit"] {
-    background: pink;
-    border: 1px solid pink;
+    background: #2B257E;
+    border: 1px solid #2B257E;
     width: 35%;
     padding: 6px 0;
     text-align: center;
@@ -655,7 +655,7 @@ body {
   }
   
   #footer .footer-top .footer-newsletter input[type="submit"]:hover {
-    background:pink;
+    background:#2B257E;
   }
   
   #footer .php-email-form .validate {
@@ -682,7 +682,7 @@ body {
   #footer .php-email-form .sent-message {
     display: none;
     color: #fff;
-    background: #18d26e;
+    background: #2B257E;
     text-align: center;
     padding: 15px;
     font-weight: 600;
@@ -711,12 +711,12 @@ body {
   #footer .php-email-form input, #footer .php-email-form textarea {
     border-radius: 0;
     box-shadow: none;
-    border: 1px solid #dce1ec;
+    border: 1px solid #2B257E;
     font-size: 14px;
   }
   
   #footer .php-email-form input::focus, #footer .php-email-form textarea::focus {
-    background-color: pink;
+    background-color: #2B257E;
   }
   
   #footer .php-email-form input {
@@ -728,7 +728,7 @@ body {
   }
   
   #footer .php-email-form button[type="submit"] {
-    background: #1bb1dc;
+    background: #2B257E;
     border: 0;
     border-radius: 3px;
     padding: 8px 30px;
@@ -737,7 +737,7 @@ body {
   }
   
   #footer .php-email-form button[type="submit"]:hover {
-    background: pink;
+    background: #2B257E;
     cursor: pointer;
   }
   
@@ -774,10 +774,10 @@ body {
   }
   
   #footer .credits a {
-    color: pink;
+    color: #2B257E;
   }
   
   #footer .credits a:hover {
-    color: pink;
+    color: #2B257E;
   }
   
